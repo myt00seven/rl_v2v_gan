@@ -202,6 +202,12 @@ conda env remove -n rl_v2v_gan_test
 
 ## Generated Samples:
 
+https://github.com/myt00seven/rl_v2v_gan/blob/main/samples/city_day_1_sel12.mp4
+https://github.com/myt00seven/rl_v2v_gan/blob/main/samples/city_night_1_sel12.mp4
+https://github.com/myt00seven/rl_v2v_gan/blob/main/samples/flower_red_1_sel12.mp4
+https://github.com/myt00seven/rl_v2v_gan/blob/main/samples/flower_yellow_1_sel12.mp4
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
