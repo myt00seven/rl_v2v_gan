@@ -209,4 +209,4 @@ https://github.com/myt00seven/rl_v2v_gan/blob/main/samples/flower_yellow_1_sel12
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
