@@ -24,8 +24,8 @@ rl_v2v_gan/
 │   └── replay_buffer.py     # Experience replay buffer
 ├── main.py                  # Training and evaluation entry point
 ├── requirements.txt         # Project dependencies
-└── README.md               # This file
-```
+└── README.md                # This file
+``` 
 
 ## Environment Setup
 
