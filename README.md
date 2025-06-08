@@ -46,12 +46,11 @@ python -c "import tensorflow as tf; print(tf.__version__)"  # Should print 1.15.
 ```
 
 ### Weights and Data
-1. [Update] You can find the training video for video editing demo in `assets/run.mp4`
 <table class="center">
 <tr>
-    <td align="center"> Motion Name </td>
+    <td align="center"> Dataset </td>
     <td align="center"> Checkpoint Link </td>
-    <td align="center"> Training data </td>
+    <td align="center"> Data </td>
 </tr>
 <tr>
     <td align="center">City</td>
